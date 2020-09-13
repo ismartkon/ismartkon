@@ -1,0 +1,16 @@
+[
+{ "Tele":"https://telegram.com",
+  "version":"0.1",
+  "versionlink":"https://google.com",
+  "banner":"https://image.com",
+  "banlink":"https://file.json",
+  "banscr":"cat"
+  },
+  { "Tele":"https://telegram.com",
+  "version":"0.1",
+  "versionlink":"https://google.com",
+  "banner":"https://image.com",
+  "banlink":"https://file.json",
+  "banscr":"cat"
+  }
+]
