@@ -5,6 +5,7 @@
   "banner":"https://image.com",
   "banlink":"https://file.json",
   "banscr":"cat",
+  "bancat":"name",
   "appjson":"https://ismartkon.github.io/ismartkon/appad.json"
   },
   { "Tele":"https://telegram.com",
@@ -13,6 +14,7 @@
   "banner":"https://image.com",
   "banlink":"https://file.json",
   "banscr":"cat",
+  "bancat":"name",
   "appjson":"https://ismartkon.github.io/ismartkon/appad.json"
   }
 ]
