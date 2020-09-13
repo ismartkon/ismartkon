@@ -1,8 +1,8 @@
 [
-{ "update":"",
-  "cat":""
+{ "update":"https://ismartkon.github.io/ismartkon/update.json",
+  "cat":"https://ismartkon.github.io/ismartkon/cat.json"
 },
-{ "update":"",
-  "cat":""
+{ "update":"https://ismartkon.github.io/ismartkon/update.json",
+  "cat":"https://ismartkon.github.io/ismartkon/cat.json"
 }
 ]
