@@ -1,8 +1,7 @@
-[
-{ "Tele":"https://telegram.com",
+[{ "Tele":"https://telegram.com",
   "version":"0.1",
   "versionlink":"https://google.com",
-  "banner":"https://image.com",
+  "banner":"https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png",
   "banlink":"https://file.json",
   "banscr":"cat",
   "bancat":"name",
@@ -11,10 +10,9 @@
   { "Tele":"https://telegram.com",
   "version":"0.1",
   "versionlink":"https://google.com",
-  "banner":"https://image.com",
+  "banner":"https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png",
   "banlink":"https://file.json",
   "banscr":"cat",
   "bancat":"name",
   "appjson":"https://ismartkon.github.io/ismartkon/appad.json"
-  }
-]
+  }]
