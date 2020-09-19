@@ -1,11 +1,11 @@
 [
 { "playname":"Gazi TV",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"https://103.214.202.218:8081/live/gazi-bd/chunks.m3u8"
+  "playlink":"http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8"
 },
 { "playname":"Channel 9",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"103.214.202.218:8081/live/channel9-15/chunks.m3u8"
+  "playlink":"http://103.214.202.218:8081/live/channel9-15/chunks.m3u8"
 },
 { "playname":"Star Sports1 HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
