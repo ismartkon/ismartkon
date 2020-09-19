@@ -1,10 +1,14 @@
 [
-{ "playname":"Indpre20",
+{ "playname":"Gazi TV",
+  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
+  "playlink":"https://103.214.202.218:8081/live/gazi-bd/chunks.m3u8"
+},
+{ "playname":"Channel 9",
+  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
+  "playlink":"103.214.202.218:8081/live/channel9-15/chunks.m3u8"
+},
+{ "playname":"Star Sports1 HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
   "playlink":"http://89.187.182.195:25461/wayne/1234/94780?token=TREMWUEJGlxBBVEHUVcPUVJQUgAADQcECwNaBlxeVlYFUlUKVAcPUgBDShFEQUtSVw5vDwcXDwwHAQBTSURFQVNBO1FWQwJEUlNQAQ8GCBUaQUQPDlAXDwIACFNQVQMDAABIGkIIXERZQ1QDDgAOBhRPEgMbQVBHXVdUPAEDRltVVkYCXBRUCk9DCV1oUVxaVw1URFkXBRcfFFEQFUQKXENfCBQQA1ESEQASVhUPGwYCUwVETxdWWkZYTBEcRApcQ18IFBAEQBIGDxVaWFsbDRQXQ0RPF1xGbERdEBEUVVNbVhYaCEMIRE9DC1JPalpYWA1VBRdcWltAFAJBV0QcEFtcClFGDko5EwgCEQ0XCwcPVgZWQUg="
-},
-  { "playname":"Indpre20",
-  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
 }
 ]
