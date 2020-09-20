@@ -1,27 +1,39 @@
 [
-{ "playname":"Gazi TV",
+{ "playname":"Star Sports HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8"
+  "playlink":"http://66.northerniptv.ca:8000/live/george/george123/201.m3u8"
+},
+{ "playname":"Star Sports select1 HD",
+  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
+  "playlink":"http://103.84.253.5/live/fastfeed1002/index.m3u8"
+},
+{ "playname":"Star Sports SD",
+  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
+  "playlink":"https://tna5.bozztv.com/cric77/index.m3u8"
 },
 { "playname":"Star Sports2 HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"http://195.181.168.3:49798/STARSP_2HD/index.m3u8"
+  "playlink":"http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8"
 },
 { "playname":"Sky Sports Cricket HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
   "playlink":"http://66.northerniptv.ca:8000/live/george/george123/205.m3u8?checkedby:hlscat.com"
 },
-{ "playname":"Sky Sports HD",
+{ "playname":"Willow SD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"http://208.81.205.247:8000/live/george/george123/205.m3u8?checkedby:hlscat.com&token=GRBcVEtZQ1kbUVJRVQQDUlAADgFdV1oNBw5RUAABC1cAVwQECQQEBl8VT0ESRRQGVAxoWgAQWAZWA04UE0pWRD1bUBcCE1RRCAFTU0MdRBdcDFIRXgJOFhZfBhRcGwcDUwIGFxQTBBtNUhENAF05B1AXXlABEFhaE1oOGkRWXWkGV1lUVlVDWRsHQU9DWBUTF1tZRgheThYEXxZEB01WFFgQBwYACENPG1QMFg9FFBoXWxV6KhBOFgNOFlMISlpZDBAOF1UCFFsbG0EKEm4UBkYVRVYFXwdGRAxABkQVEVsDSmtWV18PBlpDCgwPQkRZF1AVH0ZfDVoPQg1EOUlaUkAIFgcAAlVVG0o="
+  "playlink":"https://bit.ly/3mBaUf6"
 },
-{ "playname":"abu Sports",
+{ "playname":"Star Sports HD 4K",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8"
+  "playlink":"https://bit.ly/2FcWII9"
 },
-{ "playname":"Star Sports1 HD",
+{ "playname":"Sky Sports HD 4K ",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"http://89.187.182.195:25461/wayne/1234/94780?token=TREMWUEJGlxBBVEHUVcPUVJQUgAADQcECwNaBlxeVlYFUlUKVAcPUgBDShFEQUtSVw5vDwcXDwwHAQBTSURFQVNBO1FWQwJEUlNQAQ8GCBUaQUQPDlAXDwIACFNQVQMDAABIGkIIXERZQ1QDDgAOBhRPEgMbQVBHXVdUPAEDRltVVkYCXBRUCk9DCV1oUVxaVw1URFkXBRcfFFEQFUQKXENfCBQQA1ESEQASVhUPGwYCUwVETxdWWkZYTBEcRApcQ18IFBAEQBIGDxVaWFsbDRQXQ0RPF1xGbERdEBEUVVNbVhYaCEMIRE9DC1JPalpYWA1VBRdcWltAFAJBV0QcEFtcClFGDko5EwgCEQ0XCwcPVgZWQUg="
+  "playlink":"https://bit.ly/32LbYVT"
+},
+  { "playname":"Olo Sports SD",
+  "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
+  "playlink":"http://212.47.252.54/hls/stream.m3u8"
 }
 ]
 
