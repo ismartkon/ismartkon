@@ -2,7 +2,12 @@
   "clink":"https://ismartkon.github.io/ismartkon/cat/cric.json",
   "cimg":"https://lh3.googleusercontent.com/3IYLI-oZAlsBNFXFddoCdzfv6pxrBoLE6kGE782kasjUaz582iCqz4Fh4DWDfwEikg=s180-rw",
   "catscr":"cat"
-},{ "cname":"Cricket",
+},{ "cname":"IPL Highlights",
+  "clink":"https://ismartkon.github.io/ismartkon/cat/iplhigh.json",
+  "cimg":"https://lh3.googleusercontent.com/3IYLI-oZAlsBNFXFddoCdzfv6pxrBoLE6kGE782kasjUaz582iCqz4Fh4DWDfwEikg=s180-rw",
+  "catscr":"cat"
+},
+ { "cname":"Cricket",
   "clink":"https://ismartkon.github.io/ismartkon/cat/cric.json",
   "cimg":"https://lh3.googleusercontent.com/xZm0xx5W88sGMWoPnk-qYInrkcaJ8t7j1zIPuF6YsCQ-ksLLAvESljQAxvgtpa6JjjKY=s180-rw",
   "catscr":"cat"
