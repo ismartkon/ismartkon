@@ -1,11 +1,11 @@
 [
-  { "playname":"Asian Net SD",
+  { "playname":"Sky Sports HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"https://live-cf.anandmedia.tv/anandmedia/asianetmovies_576/playlist.m3u8"
+  "playlink":"http://149.28.223.152:8081/master_leno/english_hd/chunks.m3u8?nimblesessionid=2631&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIwIDEyOjUxOjExIFBNJmhhc2hfdmFsdWU9RGlQb3g4TXdQZlNaS3VUaDlvelZOQT09JnZhbGlkbWludXRlcz01&exoplay2"
 },
-{ "playname":"Super Sport HD",
+{ "playname":"Star Sport HD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
-  "playlink":"https://verizon-in.cdn.booyah.live/hls/100109/24729748.m3u8"
+  "playlink":"http://149.28.223.152:8081/master_leno/english_hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDIwIDEyOjUzOjQ3IFBNJmhhc2hfdmFsdWU9ekhaamxSSXZMcWpOZUw2d2lqY1J3Zz09JnZhbGlkbWludXRlcz01&exoplay2"
 },
   { "playname":"Olo Sports SD",
   "playimg":"https://lh3.googleusercontent.com/4lYITYBwhDywFpxGmVTrkwtf8qMDLgVEnJoJkjPZM5T_SGl7Vr14h56oIf2uRtPUnGcH=s180-rw",
